@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 <div align="center">
+-->
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farominddo&count_bg=%23353866&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Wellcome+Mingddo&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -127,5 +128,6 @@ Here are some ideas to get you started:
 
 ![Mingddo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arominddo&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
-
+<!--
 </div>
+-->
