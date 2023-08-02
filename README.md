@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 
 
-<br/>
+<br/><br/>
 
 << **Other Skill** >>
 <br/>
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
 
 
-<br/>
+<br/><br/>
 
 << **DB** >>
 <br/>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 
 
-<br/>
+<br/><br/>
 
 << **Tool** >>
 <br/>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
 
 
-<br/>
+<br/><br/>
 
 << **Ect** >>
 <br/>
