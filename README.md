@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=gray"/>
-<img src="https://img.shields.io/badge/Java-F2C924?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F2C924?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
 
 
@@ -110,7 +110,9 @@ Here are some ideas to get you started:
 << **Ect** >>
 <br/>
 
+<img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=adobe xd&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftPowerPoint&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftExcel&logoColor=white"/>
