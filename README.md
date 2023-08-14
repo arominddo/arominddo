@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<< **Ect** >>
+<< **Etc** >>
 <br/>
 
 <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white"/>
