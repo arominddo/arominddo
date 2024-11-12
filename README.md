@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Mingddo's GitHub stats](https://github-readme-stats.vercel.app/api?username=arominddo&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+![Mingddo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingddori&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
 
 </div>
