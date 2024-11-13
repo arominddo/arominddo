@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white"/>
 <img src="https://img.shields.io/badge/SqlAlchemy-D0280B?style=flat&logo=sqlalchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
